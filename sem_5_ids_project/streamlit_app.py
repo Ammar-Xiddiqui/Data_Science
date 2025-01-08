@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("South Asian Countries economic analysis")
+st.title("South Asian Countries economic analysis 🌏💹")
 st.write("In this app we analyze different statistics of south asian country that can help grow thier economy")
 
 # Sidebar
